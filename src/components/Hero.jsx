@@ -24,8 +24,8 @@ const Hero = () => {
         <span className='orange_gradient '>OpenAI GPT-4</span>
       </h1>
       <h2 className='desc'>
-        Simplify your reading with Summize, an open-source article summarizer
-        that transforms lengthy articles into clear and concise summaries
+      Lexica: Your solution for streamlined reading. Harnessing AI technology, Lexica distills lengthy articles into crisp, digestible summaries, making information accessible and easy to comprehend
+
       </h2>
     </header>
   );
